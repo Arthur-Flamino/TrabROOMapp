@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">AppRoom34508741</string>
+    <string name="app_name">Inventario</string>
+    <string name="attention">Atenção</string>
+    <string name="back_button">volta</string>
+    <string name="delete">Deletar</string>
+    <string name="delete_question">Tem certeza que deseja deletar?</string>
+    <string name="no_item_description">Oops!\nSem itens no inventario.\nClique + para adicionar.</string>
+    <string name="edit_item_title">Editar Item</string>
+    <string name="item">Item</string>
+    <string name="item_detail_title">Detalhe do Item</string>
+    <string name="item_entry_title">Adicionar Item</string>
+    <string name="item_name_req">Item Nome*</string>
+    <string name="item_price_req">Item Preço*</string>
+    <string name="no">Não</string>
+    <string name="price">Preço</string>
+    <string name="quantity_in_stock">Quantidade no estoque</string>
+    <string name="in_stock">%d no estoque</string>
+    <string name="quantity_req">Quantidade em estoque*</string>
+    <string name="save_action">Salvar</string>
+    <string name="sell">Vender</string>
+    <string name="yes">Sim</string>
+    <string name="required_fields">*Campos Obrigatórios</string>
 </resources>
